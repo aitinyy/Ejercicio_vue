@@ -1,0 +1,46 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "author": "Juan",
+      "date": "2021-04-23T09:30:00+0100",
+      "title": "Probé un nuevo café y ahora pienso en dejar mi trabajo para ser barista.",
+      "subTitle": "La próxima vez, probaré uno descafeinado… ¡demasiado entusiasmo!"
+    },
+    {
+      "id": 2,
+      "author": "María",
+      "date": "2022-11-12T15:45:00+0100",
+      "title": "La pizza con piña es un invento celestial.",
+      "subTitle": "¿Pelea con los amigos por ponerle piña? ¡Claro que sí!"
+    },
+    {
+      "id": 3,
+      "author": "Luis",
+      "date": "2023-07-08T18:20:00+0100",
+      "title": "La siesta de 5 minutos se convirtió en una expedición de 3 horas.",
+      "subTitle": "Recomendado: siempre poner una alarma... ¡o dos!"
+    },
+    {
+      "id": 4,
+      "author": "Carlos",
+      "date": "2024-07-08T18:20:00+0100",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "subTitle": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    },
+    {
+      "id": 5,
+      "author": "Luis",
+      "date": "2024-07-08T18:20:00+0100",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "subTitle": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    },
+    {
+      "id": 6,
+      "author": "Carlos",
+      "date": "2024-07-20T18:20:00+0100",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "subTitle": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    }
+  ]
+}
