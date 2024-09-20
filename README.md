@@ -1,29 +1,10 @@
 # ejercicio-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+Ejercicio hecho en Vue y el diseño con Tailwind.
 
-## Recommended IDE Setup
+He añadido una imagen de prueba y algunas noticias extra.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Primero he creado el proyecto Vue y trabajé en crear la estructura del ejercicio. Después hice un diseño rápido en Figma y con Vue+Tailwind fui creando el diseño final de la web.
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Para su funcionamiento ejecutar el comando:
+npm run dev 
