@@ -51,7 +51,7 @@ export default {
             <p>{{ dateFormat(date) }}</p>
             <p class="text-slate-400">Id: {{ id }}</p>
           </div>
-          <button ref="readButton" class="rounded-full bg-sky hover:bg-dark-sky text-xs" @click="manageRead()">Marcar como leída</button>
+          <button ref="readButton" class="rounded-full bg-sky hover:bg-dark-sky text-xs p-1" @click="manageRead()">Marcar como leída</button>
         </div>
       </div>
     </div>
